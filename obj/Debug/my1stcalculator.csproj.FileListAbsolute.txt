@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\my1stcalculator\my1stcalculator\bin\Debug\my1stcalculator.exe.config
+C:\Users\User\source\repos\my1stcalculator\my1stcalculator\bin\Debug\my1stcalculator.exe
+C:\Users\User\source\repos\my1stcalculator\my1stcalculator\bin\Debug\my1stcalculator.pdb
+C:\Users\User\source\repos\my1stcalculator\my1stcalculator\obj\Debug\my1stcalculator.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\my1stcalculator\my1stcalculator\obj\Debug\my1stcalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\my1stcalculator\my1stcalculator\obj\Debug\my1stcalculator.Form1.resources
+C:\Users\User\source\repos\my1stcalculator\my1stcalculator\obj\Debug\my1stcalculator.Properties.Resources.resources
+C:\Users\User\source\repos\my1stcalculator\my1stcalculator\obj\Debug\my1stcalculator.csproj.GenerateResource.cache
+C:\Users\User\source\repos\my1stcalculator\my1stcalculator\obj\Debug\my1stcalculator.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\my1stcalculator\my1stcalculator\obj\Debug\my1stcalculator.exe
+C:\Users\User\source\repos\my1stcalculator\my1stcalculator\obj\Debug\my1stcalculator.pdb
